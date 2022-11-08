@@ -2,9 +2,13 @@
 
 This is the example repo for the Web3School episode of integrating MetaMask in React.
 
-![Project screenshot](public/screenshot.png)
+You'll learn how to:
 
-[blah.com](https://github.com/VGLoic/metamask-react)
+- Integrate the [metamask-react](https://github.com/VGLoic/metamask-react) package into a Next.js app
+- Update the application based on MetaMask state
+- Wrap the MetaMask signer in a hook to use throughout your app
+
+![Project screenshot](public/screenshot.png)
 
 ---
 
